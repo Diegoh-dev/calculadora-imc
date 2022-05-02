@@ -10,7 +10,7 @@
 
 ## 🤝 Colaboradores
 
-contribuium para este projeto:
+contribuiu para este projeto:
 
 <table>
   <tr>
